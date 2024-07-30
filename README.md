@@ -168,7 +168,7 @@ You should not have them use the workshop website repository because:
 
 You can call this repository whatever you like, and add whatever content you need to it.
 
-## Getting and Giving Help
+## Getting and Giving Help 
 
 We are committed to offering a pleasant setup experience for our learners and organizers.
 If you find bugs in our instructions,
