@@ -94,8 +94,8 @@ skills to researchers. This workshop is a 2-day blend of both Software Carpentri
 </p>
 <p align="center">
   <em>
-    For more information on what we teach and why,
-    please see our papers
+    For more information on what we and the Carpentries teach and why,
+    please see the Carpentries' papers
     "<a href="https://doi.org/10.1371/journal.pcbi.1005510">Good Enough Practices for Scientific Computing</a>" and "<a href="https://doi.org/10.1371/journal.pbio.1001745">Best Practices for Scientific Computing</a>".
   </em>
 </p>
