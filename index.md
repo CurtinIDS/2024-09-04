@@ -197,7 +197,7 @@ Display the contact email address set in the configuration file by looping throu
 
 <p id="before-attending">
 <strong>What do I need to do before attending?</strong> <br>
-  Before attending please ensure you've followed the <a href="{{ relative_root_path }}/setup">setup</a> . This means you should have:  
+  Before attending please ensure you've followed the <a href="{{ relative_root_path }}/{% link setup/index.md %}">setup</a> . This means you should have:  
   <ol>
     <li> Installed VSCode </li>
     <li> Installed the python enviornment </li>
