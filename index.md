@@ -66,7 +66,7 @@ displayed if the 'eventbrite' field in the header is not set.
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
 <a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
 helpers, and supporters who share a mission to teach foundational computational and data science
-skills to researchers. This workshop is a 2-day blend of both Software Carpentries and Data caprnetires.
+skills to researchers. This workshop is a 2-day blend of both Software Carpentries and Data Carpentries.
 
 
 
@@ -105,7 +105,7 @@ skills to researchers. This workshop is a 2-day blend of both Software Carpentri
   The course is aimed at graduate students and other researchers.
   <strong>
     You don't need to have any previous knowledge of the tools
-    that will be presented at the workshop.
+    that will be presented at the workshop (but you do need to know who to use a laptop).
   </strong>
 </p>
 
@@ -142,7 +142,7 @@ skills to researchers. This workshop is a 2-day blend of both Software Carpentri
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.  <br>
 
-    They should have a few specific software packages installed (listed on the <a href="{{ relative_root_path }}{% link setup/index.md %}">setup page</a>).
+    They should have a few specific software packages installed and set up (listed on the <a href="{{ relative_root_path }}{% link setup/index.md %}">setup page</a>).
 </p>
 
 
