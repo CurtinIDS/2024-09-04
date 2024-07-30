@@ -137,7 +137,7 @@ skills to researchers. This workshop is a 2-day blend of both Software Carpentri
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.  <br>
 
-    They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+    They should have a few specific software packages installed (listed on the <a href="{{ relative_root_path }}{% link setup/index.md %}">setup page</a>).
 </p>
 
 
