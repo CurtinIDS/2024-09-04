@@ -105,7 +105,7 @@ skills to researchers. This workshop is a 2-day blend of both Software Carpentri
   The course is aimed at graduate students and other researchers.
   <strong>
     You don't need to have any previous knowledge of the tools
-    that will be presented at the workshop (but you do need to know who to use a laptop).
+    that will be presented at the workshop (but you do need to know how to use a laptop).
   </strong>
 </p>
 
